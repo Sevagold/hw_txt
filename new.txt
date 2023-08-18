@@ -1,0 +1,4 @@
+Name: Seva
+Age: 24
+Animals: 4
+Sallary: 100
